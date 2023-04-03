@@ -1,4 +1,4 @@
-# Phishing Email Detection
+# Phishing Detection
 
 ![Project Status](https://img.shields.io/badge/status-active-orange)
 
